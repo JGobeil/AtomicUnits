@@ -1,0 +1,4 @@
+name = "AtomicUnits"
+uuid = "c4563537-27b5-4c5b-a098-bc812f63e9e4"
+authors = ["Jeremie Gobeil <jeremie.gobeil@gmail.com>"]
+version = "0.1.0"
